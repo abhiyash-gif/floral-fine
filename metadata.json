@@ -1,0 +1,6 @@
+{
+  "name": "Flora Atelier - Artisanal Florist",
+  "description": "Boutique floral studio offering seasonal fresh bouquets, custom floral arrangements, curated gifts, and scheduled same-day botanical deliveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
